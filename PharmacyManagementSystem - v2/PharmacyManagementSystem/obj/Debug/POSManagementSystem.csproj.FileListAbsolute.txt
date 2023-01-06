@@ -27,3 +27,7 @@ D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\POSM
 D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\POSManagementSystem.csproj.CopyComplete
 D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
 D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+C:\Users\krato\OneDrive\Documents\GitHub\Ecomarket-Management-System\PharmacyManagementSystem - v2\PharmacyManagementSystem\obj\Debug\POSManagementSystem.csproj.AssemblyReference.cache
+C:\Users\krato\OneDrive\Documents\GitHub\Ecomarket-Management-System\PharmacyManagementSystem - v2\PharmacyManagementSystem\obj\Debug\POSManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\krato\OneDrive\Documents\GitHub\Ecomarket-Management-System\PharmacyManagementSystem - v2\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+C:\Users\krato\OneDrive\Documents\GitHub\Ecomarket-Management-System\PharmacyManagementSystem - v2\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
