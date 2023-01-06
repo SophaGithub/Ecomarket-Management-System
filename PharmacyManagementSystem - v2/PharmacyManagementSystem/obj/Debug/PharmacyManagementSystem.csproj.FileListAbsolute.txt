@@ -1,0 +1,54 @@
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.frmLogin.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.frmSplashScreen.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmMenu.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCategory.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCategoryView.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCustomer.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCustomerView.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmProduct.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmProductView.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmSupplier.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmPurchase.resources
+D:\Project\PharmacyManagementSystem\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmStock.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe.config
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.exe
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\bin\Debug\PharmacyManagementSystem.pdb
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.dll
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\bin\Debug\Newtonsoft.Json.xml
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.AssemblyReference.cache
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.SuggestedBindingRedirects.cache
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCategory.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCategoryView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCustomer.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmCustomerView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmEmployee.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmEmployeeView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmMenu.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmProduct.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmProductView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmPurchase.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmPurchaseView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmStock.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmSupplier.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Forms.frmSupplierView.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.frmLogin.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.frmSplashScreen.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.Properties.Resources.resources
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.GenerateResource.cache
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CoreCompileInputs.cache
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.csproj.CopyComplete
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.exe
+D:\Project\PharmacyManagementSystem - v1\PharmacyManagementSystem\obj\Debug\PharmacyManagementSystem.pdb
